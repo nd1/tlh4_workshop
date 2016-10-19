@@ -66,6 +66,3 @@ target/
 # API keys
 config_secret.json
 
-# files to build slides
-slides.ipynb
-slides.slides.html
