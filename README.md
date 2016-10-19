@@ -1,3 +1,5 @@
+Temporarily using a working repo from https://github.com/sirjessthebrave/codeher16 to test!
+
 # codeher16
 Intro to SASS presentation for Code(Her) 2016 conference
 
