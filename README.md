@@ -1,9 +1,5 @@
-Temporarily using a working repo from https://github.com/sirjessthebrave/codeher16 to test!
+#Data Collection: APIs and Web Scraping in Python 
 
-# codeher16
-Intro to SASS presentation for Code(Her) 2016 conference
+**Workshop for Tech Lady Hackathon + Training Day DC #4, October 22, 2016**
+ 
 
-#Sass Docs
-http://sass-lang.com/
-Installing Sass on Mac: http://sass-lang.com/install
-Installing Sass on Windows: https://www.impressivewebs.com/sass-on-windows/
