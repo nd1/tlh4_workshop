@@ -1,4 +1,4 @@
-![logo](./img/tlh4.jpg =500x) 
+<img src="./img/tlh4.jpg" alt="Drawing" style="width: 700px;" align="center"/> 
 
 TechLady Hackathon 4 logo created by [@MarieCWhittaker](https://twitter.com/MarieCWhittaker)
 
