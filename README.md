@@ -14,4 +14,3 @@ This workshop will introduce APIs and web scraping. There is a [Jupyter Notebook
 
 The notebook and scripts are written for Python 3.
 
-http://api.dp.la/v2/items?api_key=*add your key here*&q=goats
